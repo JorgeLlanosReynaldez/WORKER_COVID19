@@ -1,0 +1,16 @@
+caso,distrito,sector,genero,fallecidos,observaciones,fuente
+1,1,12 de Octubre,Femenino,,,https://twitter.com/noticiasfides/status/1249726249146212352?s=20
+2,1,Villa Dolores,Femenino,,,https://twitter.com/noticiasfides/status/1249726249146212352?s=20
+3,1,Santa Rosa,Masculino,,,https://twitter.com/noticiasfides/status/1249726249146212352?s=20
+4,1,Sector Tejada,,,,https://twitter.com/noticiasfides/status/1249726249146212352?s=20
+5,2,Gran Poder - Sector Bolivar,Femenino,,,https://twitter.com/noticiasfides/status/1249726249146212352?s=20
+6,2,Gran Poder - Sector Bolivar,Femenino,,,https://twitter.com/noticiasfides/status/1249726249146212352?s=20
+7,2,Gran Poder - Sector Bolivar,Masculino,,,https://twitter.com/noticiasfides/status/1249726249146212352?s=20
+8,3,Zona Calama,Masculino,,,https://twitter.com/noticiasfides/status/1249726249146212352?s=20
+9,4,Sector Tunari,,,,https://twitter.com/noticiasfides/status/1249726249146212352?s=20
+10,8,Senkata Panoramica I,Masculino,,,https://twitter.com/noticiasfides/status/1249726249146212352?s=20
+11,8,Senkata Panoramica I,Masculino,,,https://twitter.com/noticiasfides/status/1249726249146212352?s=20
+12,8,Senkata Panoramica II,Femenino,,,https://twitter.com/noticiasfides/status/1249726249146212352?s=20
+13,8,Senkata Panoramica,,,,https://twitter.com/noticiasfides/status/1249726249146212352?s=20
+14,0,Sin Sector,,4,"No se tiene fallecidos por distrito/sector, solo un total.
+Distrito cero es inventado, en la versión original dice otro",https://twitter.com/noticiasfides/status/1249726249146212352?s=20
