@@ -21,6 +21,10 @@ El proyecto **WORKER_COVID19** es una aplicación de servicio en segundo plano d
 - **[FileHelpers](https://github.com/MarcosMeli/FileHelpers)**: Para la lectura de archivos CSV.
 - **[iTextSharp](https://github.com/itext/itext7-dotnet)**: Para la generación de archivos PDF.
 
+## Bolivia COVID19 datasets
+
+- **[Dataset](https://www.kaggle.com/datasets/eddysan/casos-positivos-covid19-bolivia?select=geografico_covid19_lapaz.csv)**: URL de los dataset de pruebas.
+
 ## Configuración
 
 El archivo de configuración `appsettings.json` debe contener las siguientes secciones:
